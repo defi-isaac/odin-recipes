@@ -1,0 +1,12 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: pink;
+    color: blue;
+    font-size: 69px;
+    width: 1000px;
+    height: auto;
+}
