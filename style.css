@@ -14,3 +14,10 @@ h1 {
 body {
     background-image: url("https://t3.ftcdn.net/jpg/02/95/44/22/360_F_295442295_OXsXOmLmqBUfZreTnGo9PREuAPSLQhff.jpg");
 }
+
+h2, 
+p,
+ul,
+ol {
+    background-color: white;
+}
