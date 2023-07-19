@@ -6,7 +6,7 @@ h1 {
     text-align: center;
     background-color: pink;
     color: blue;
-    font-size: 69px;
+    font-size: 100px;
     width: 1000px;
     height: auto;
 }
@@ -20,4 +20,15 @@ p,
 ul,
 ol {
     background-color: white;
+}
+
+.links {
+    display: inline-block;
+    padding: 10px;
+    list-style: none;
+    margin: auto;
+    text-align: center;
+    width: 1000px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 69px;
 }
